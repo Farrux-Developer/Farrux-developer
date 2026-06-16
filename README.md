@@ -1,11 +1,12 @@
 ## 👋 Hi, I'm Farrux Igamberdiev
 ### Full-Stack Software Developer
+Building scalable, modern, and high-performance web applications with React, Next.js, and Node.js.
 
 <img width="100%" height="2" alt="Rainbow" src="https://github.com/user-attachments/assets/d66f57e7-e75e-4451-b0d0-3864d89a6739" />
 
 
 
-Building scalable, modern, and high-performance web applications with React, Next.js, and Node.js.
+
 
 ---
 
