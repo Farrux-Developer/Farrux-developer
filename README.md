@@ -65,5 +65,5 @@ I am a **Full-Stack Developer** specializing in building modern client-server we
 *  📱 **Phone:** +998-33-303-03-40
 *  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Farrux-Developer/Farrux-Developer/main/profile-3d-contrib/profile-3d-variant-ja.svg" alt="3D Contributions" width="100%" />
+  <img src="https://raw.githubusercontent.com/Farrux-Developer/Farrux-Developer/main/profile-night-view.svg" alt="3D Contributions" width="100%" />
 </p>
