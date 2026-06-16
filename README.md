@@ -1,7 +1,7 @@
 ## Hi there, I'm Farrux 👋
 ### Full-Stack Software Developer
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=10&section=header" width="100%"/>
+<img width="400" height="2" alt="Rainbow" src="https://github.com/user-attachments/assets/d66f57e7-e75e-4451-b0d0-3864d89a6739" />
 
 Я занимаюсь проектированием и разработкой высокопроизводительных, адаптивных и интуитивно понятных веб-приложений. Люблю решать сложные архитектурные задачи, автоматизировать процессы и создавать чистый, поддерживаемый код как на фронтенде, так и на бэкенде.
 
