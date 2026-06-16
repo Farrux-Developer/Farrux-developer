@@ -67,3 +67,5 @@ I am a **Full-Stack Developer** specializing in building modern client-server we
 <p align="center">
   <img src="https://raw.githubusercontent.com/Farrux-Developer/Farrux-Developer/main/profile-3d-contrib/profile-night-view.svg?v=1" alt="3D Contributions" width="100%" />
 </p>
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31zflfg7gszk66er3liyof6mnzma&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
