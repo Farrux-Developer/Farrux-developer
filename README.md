@@ -1,11 +1,9 @@
 ## 👋 Hi, I'm Farrux Igamberdiev
 ### Full-Stack Software Developer
 
-<img width="100%" height="2" alt="Rainbow" src="https://github.com/user-attachments/assets/d66f57e7-e75e-4451-b0d0-3864d89a6739" />
-
 Building scalable, modern, and high-performance web applications with React, Next.js, and Node.js.
 
----
+<img width="100%" height="2" alt="Rainbow" src="https://github.com/user-attachments/assets/d66f57e7-e75e-4451-b0d0-3864d89a6739" />
 
 ### 🧑‍💻 About Me
 
@@ -68,4 +66,3 @@ I am a **Full-Stack Developer** specializing in building modern client-server we
   <img src="https://raw.githubusercontent.com/Farrux-Developer/Farrux-Developer/main/profile-3d-contrib/profile-night-view.svg?v=1" alt="3D Contributions" width="100%" />
 </p>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31zflfg7gszk66er3liyof6mnzma&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
