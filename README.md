@@ -1,16 +1,19 @@
 ## 👋 Hi, I'm Farrux Igamberdiev
 ### Full-Stack Software Developer
-Building scalable, modern, and high-performance web applications with React, Next.js, and Node.js.
 
 <img width="100%" height="2" alt="Rainbow" src="https://github.com/user-attachments/assets/d66f57e7-e75e-4451-b0d0-3864d89a6739" />
 
+Building scalable, modern, and high-performance web applications with React, Next.js, and Node.js.
+
+---
+
 ### 🧑‍💻 About Me
 
-Я — **Full-Stack разработчик**, специализирующийся на создании современных клиент-серверных веб-приложений. Мой фокус направлен на проектирование надежной архитектуры приложений, оптимизацию баз данных и разработку удобных пользовательских интерфейсов.
+I am a **Full-Stack Developer** specializing in building modern client-server web applications. My focus is on designing reliable application architecture, optimizing databases, and developing user-friendly interfaces.
 
-* 🎯 **My Specialty:** Глубокое понимание экосистемы JavaScript/TypeScript, проектирование баз данных, построение гибких API-слоев и реализация сложных анимационных интерфейсов.
-* 💼 **Project Experience:** Опыт разработки различных проектов — от страховых платформ с платежными интеграциями до административных панелей автоматизации данных и интерактивных веб-систем.
-* 🛡️ **Interests:** Помимо веб-разработки, активно интересуюсь сетевой безопасностью, этичным хакингом и оптимизацией Linux-окружения.
+* 🎯 **My Specialty:** Deep understanding of the JavaScript/TypeScript ecosystem, database design, building flexible API layers, and implementing complex animated interfaces.
+* 💼 **Project Experience:** Experience developing various projects — from insurance platforms with payment integrations to admin panels for data automation and interactive web systems.
+* 🛡️ **Interests:** Beyond web development, I am actively interested in network security, ethical hacking, and Linux environment optimization.
 
 ---
 
@@ -28,7 +31,7 @@ Building scalable, modern, and high-performance web applications with React, Nex
 #### ⚙️ Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-074D5B?style=for-the-badge&logo=sqlite&logicColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-074D5B?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white)
 
 #### 🛠️ Environment & Security
@@ -39,11 +42,11 @@ Building scalable, modern, and high-performance web applications with React, Nex
 
 ---
 
-### 🛠️ Production Highlight
+### 🛠️ Production Highlights
 
-* **Insurance Platforms:** Разработка интерфейсов и логики управления застрахованными лицами, интеграция популярных платежных систем (Payme/Click) и валидация комплексных форм.
-* **Data Portals & Automation:** Разработка систем синхронизации Excel-данных с реляционными базами данных SQLite для внутренней автоматизации управления политиками.
-* **UI/UX & Animations:** Реализация интерактивных интерфейсов с высокой точностью позиционирования элементов, эффектами глитчей и трекинга курсора.
+* **Insurance Platforms:** Development of user interfaces and management logic for insured parties, integration of popular payment gateways (Payme/Click), and complex form validation.
+* **Data Portals & Automation:** Creation of synchronization systems to parse Excel data into relational SQLite databases for internal policy management automation.
+* **UI/UX & Animations:** Implementation of interactive interfaces featuring precise element positioning, realistic glitch effects, and custom cursor-tracking mechanics.
 
 ---
 
@@ -58,5 +61,5 @@ Building scalable, modern, and high-performance web applications with React, Nex
 
 ### 📞 Contact Me
 
-* 📧 **Email:** farruxwebsitedeveloper@gmail.com
-* 📱 **Phone:** +998-33-303-03-40
+* 📧 **Email:** farruxwebsitedeveloper@gmail.com *
+*  📱 **Phone:** +998-33-303-03-40
