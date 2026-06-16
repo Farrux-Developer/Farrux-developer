@@ -1,4 +1,4 @@
-## Hi there, I'm Rovshan 👋
+## Hi there, I'm Farrux 👋
 ### Full-Stack Software Developer
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=10&section=header" width="100%"/>
