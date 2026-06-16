@@ -66,11 +66,3 @@ I am a **Full-Stack Developer** specializing in building modern client-server we
   <img src="https://raw.githubusercontent.com/Farrux-Developer/Farrux-Developer/main/profile-3d-contrib/profile-night-view.svg?v=1" alt="3D Contributions" width="100%" />
 </p>
 
-<details>
-  <summary><b>👀 Click here to see my commercial project details</b></summary>
-  
-  ### Production Details
-  * **Architecture:** Next.js (App Router) + TypeScript.
-  * **State:** Redux Toolkit & RTK Query for caching.
-  * **Features:** Integrated Payme/Click billing systems, responsive dashboard with complex form validation.
-</details>
