@@ -62,7 +62,5 @@ I am a **Full-Stack Developer** specializing in building modern client-server we
 * 📧 **Email:** farruxwebsitedeveloper@gmail.com *
 *  📱 **Phone:** +998-33-303-03-40
 *  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Farrux-Developer/Farrux-Developer/main/profile-3d-contrib/profile-night-view.svg?v=1" alt="3D Contributions" width="100%" />
-</p>
+
 
