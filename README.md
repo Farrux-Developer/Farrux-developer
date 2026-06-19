@@ -11,7 +11,6 @@ I am a **Full-Stack Developer** specializing in building modern client-server we
 
 * 🎯 **My Specialty:** Deep understanding of the JavaScript/TypeScript ecosystem, database design, building flexible API layers, and implementing complex animated interfaces.
 * 💼 **Project Experience:** Experience developing various projects — from insurance platforms with payment integrations to admin panels for data automation and interactive web systems.
-* 🛡️ **Interests:** Beyond web development, I am actively interested in network security, ethical hacking, and Linux environment optimization.
 
 ---
 
