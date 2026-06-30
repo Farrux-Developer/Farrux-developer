@@ -1,4 +1,4 @@
-## 👋 Hi There, I'm Farrux Igamberdiev
+## 👋 Hi there, I'm Farrux Igamberdiev
 ### Full-Stack Software Developer
 
 Building scalable, modern, and high-performance web applications with React, Next.js, and Node.js.
