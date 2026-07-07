@@ -54,7 +54,9 @@ I am a **Full-Stack Developer** specializing in building modern client-server we
   <img src="https://github-readme-stats.vercel.app/api?username=Farrux-Developer&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
 </p>
 
-<img src="https://camo.githubusercontent.com/728dbb4b7f442384f515962cddd07f9993a233837bd9f224c66a71d56f67e29d/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d656c796f72636f6465267468656d653d7261646963616c"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Farrux-Developer&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 
