@@ -5,7 +5,7 @@ Building scalable, modern, and high-performance web applications with React, Nex
 
 <img width="100%" height="2" alt="Rainbow" src="https://github.com/user-attachments/assets/d66f57e7-e75e-4451-b0d0-3864d89a6739" />
 
-### 🧑‍💻 About Me
+### 💻 About Me
 
 I am a **Full-Stack Developer** specializing in building modern client-server web applications. My focus is on designing reliable application architecture, optimizing databases, and developing user-friendly interfaces.
 
