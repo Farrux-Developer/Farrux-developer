@@ -47,7 +47,6 @@ I am a **Full-Stack Developer** specializing in building modern client-server we
 
 ---
 
-### 📊 GitHub Activity & Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farrux-Developer&layout=compact&langs_count=6&theme=tokyonight" alt="Most Used Languages" width="48%" />
