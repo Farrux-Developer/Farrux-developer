@@ -47,9 +47,6 @@ I am a **Full-Stack Developer** specializing in building modern client-server we
 
 ---
 
-
----
-
 ### 📞 Contact Me
 
 * 📧 **Email:** farruxwebsitedeveloper@gmail.com *
