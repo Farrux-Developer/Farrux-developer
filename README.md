@@ -48,10 +48,6 @@ I am a **Full-Stack Developer** specializing in building modern client-server we
 ---
 
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Farrux-Developer&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
 ---
 
 ### 📞 Contact Me
