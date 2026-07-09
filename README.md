@@ -49,11 +49,6 @@ I am a **Full-Stack Developer** specializing in building modern client-server we
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farrux-Developer&layout=compact&langs_count=6&theme=tokyonight" alt="Most Used Languages" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Farrux-Developer&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Farrux-Developer&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
