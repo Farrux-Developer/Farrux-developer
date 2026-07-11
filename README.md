@@ -1,4 +1,5 @@
-<div align="center"> <h2>👋 Hi there, I'm Farrux Igamberdiev</h2> <h3>Full-Stack Software Developer</h3> <p>Building scalable, modern, and high-performance web applications with React, Next.js, and Node.js.</p> </div> <img width="100%" height="2" alt="Rainbow" src="https://github.com/user-attachments/assets/d66f57e7-e75e-4451-b0d0-3864d89a6739" />
+<div align="center"> <h2>👋 Hi there, I'm Farrux Igamberdiev</h2> <h3>Full-Stack Software Developer</h3>
+  <p>Building scalable, modern, and high-performance web applications with React, Next.js, and Node.js.</p> </div> <img width="100%" height="2" alt="Rainbow" src="https://github.com/user-attachments/assets/d66f57e7-e75e-4451-b0d0-3864d89a6739" />
 
 
 ### 💻 About Me
@@ -23,17 +24,11 @@ I am a **Full-Stack Developer** specializing in building modern client-server we
 #### 💻 Frontend Core
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
 
@@ -50,11 +45,8 @@ I am a **Full-Stack Developer** specializing in building modern client-server we
 #### 🛠️ Environment & Security
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 ![WSL](https://img.shields.io/badge/WSL-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
 
