@@ -10,30 +10,13 @@
 
 <img width="100%" height="2" alt="Rainbow" src="https://github.com/user-attachments/assets/d66f57e7-e75e-4451-b0d0-3864d89a6739" />
 
-### 👨‍💻 Profile & Stats
+### 💻 About me
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💻 About me</h3>
-      <p>I am a <b>Full-Stack Developer</b> specializing in building modern client-server web applications. My focus is on designing reliable application architecture, optimizing databases, and developing user-friendly interfaces.</p>
-      <ul>
-        <li>🎯 <b>My Specialty:</b> Deep understanding of the JavaScript/TypeScript ecosystem, database design, building flexible API layers.</li>
-        <li>💼 <b>Focus:</b> Implementing complex animated interfaces and scalable architecture.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📊 GitHub Stats</h3>
-      <div align="center">
-        <!-- Карточка со статистикой (тема tokyonight) -->
-        <img src="https://github-readme-stats.vercel.app/api?username=Farrux-Developer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-        <br/>
-        <!-- Карточка с используемыми языками -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farrux-Developer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-      </div>
-    </td>
-  </tr>
-</table>
+I am a **Full-Stack Developer** specializing in building modern client-server web applications. My focus is on designing reliable application architecture, optimizing databases, and developing user-friendly interfaces.
+
+* 🎯 **My Specialty:** Deep understanding of the JavaScript/TypeScript ecosystem, database design, building flexible API layers.
+* 💼 **Focus:** Implementing complex animated interfaces and scalable architecture.
+* 🌱 **Currently Learning:** Advanced Next.js features and microservices.
 
 ### 🚀 Technologies & Tools
 
