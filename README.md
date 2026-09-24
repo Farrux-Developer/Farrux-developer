@@ -1,12 +1,90 @@
-<div align="center"> 
-  <h2>👋 Hi there, I'm Farrux Igamberdiev</h2> 
+<div align="center">
+  <!-- Динамический баннер -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=200&section=header&text=Farrux%20Igamberdiev&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Developer&descAlignY=61&descAlign=50" alt="Header Banner" />
   
   <!-- Анимированный цветной текст с эффектом печати -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Developer;Building+scalable+web+applications;React,+Next.js,+and+Node.js" alt="Typing SVG" />
   </a>
 </div> 
+
 <img width="100%" height="2" alt="Rainbow" src="https://github.com/user-attachments/assets/d66f57e7-e75e-4451-b0d0-3864d89a6739" />
+
+### 👨‍💻 Профиль & Статистика
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💻 About me</h3>
+      <p>I am a <b>Full-Stack Developer</b> specializing in building modern client-server web applications. My focus is on designing reliable application architecture, optimizing databases, and developing user-friendly interfaces.</p>
+      <ul>
+        <li>🎯 <b>My Specialty:</b> Deep understanding of the JavaScript/TypeScript ecosystem, database design, building flexible API layers.</li>
+        <li>💼 <b>Focus:</b> Implementing complex animated interfaces and scalable architecture.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 GitHub Stats</h3>
+      <div align="center">
+        <!-- Карточка со статистикой (тема tokyonight) -->
+        <img src="https://github-readme-stats.vercel.app/api?username=Farrux-Developer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+        <br/>
+        <!-- Карточка с используемыми языками -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farrux-Developer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+      </div>
+    </td>
+  </tr>
+</table>
+
+### 🚀 Technologies & Tools
+
+<h4>💻 Frontend Core</h4>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,tailwind" alt="Frontend Skills" />
+  </a>
+</p>
+
+<h4>⚙️ Backend & Databases</h4>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,postgres,sqlite,prisma" alt="Backend Skills" />
+  </a>
+</p>
+
+<h4>🛠️ Environment & Security</h4>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,git,linux" alt="Tools" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Production Highlights
+
+*Кликните на проект, чтобы узнать подробности:*
+
+<details>
+  <summary><b>🛡️ Insurance Platforms</b></summary>
+  <br>
+  <blockquote>Development of user interfaces and management logic for insured parties, integration of popular payment gateways (Payme/Click), and complex form validation.</blockquote>
+</details>
+
+<details>
+  <summary><b>📊 Data Portals & Automation</b></summary>
+  <br>
+  <blockquote>Creation of synchronization systems to parse Excel data into relational SQLite databases for internal policy management automation.</blockquote>
+</details>
+
+<details>
+  <summary><b>✨ UI/UX & Animations</b></summary>
+  <br>
+  <blockquote>Implementation of interactive interfaces featuring precise element positioning, realistic glitch effects, and custom cursor-tracking mechanics.</blockquote>
+</details>
+
+<br>
+
+---
 
 ### 🐍 GitHub Contributions
 
@@ -18,55 +96,13 @@
   </picture>
 </div>
 
-### 💻 About me
-
-I am a **Full-Stack Developer** specializing in building modern client-server web applications. My focus is on designing reliable application architecture, optimizing databases, and developing user-friendly interfaces.
-
-* 🎯 **My Specialty:** Deep understanding of the JavaScript/TypeScript ecosystem, database design, building flexible API layers, and implementing complex animated interfaces.
-
-* 💼 **Project Experience:** Experience developing various projects — from insurance platforms with payment integrations to admin panels for data automation and interactive web systems.
-
----
-
-### 🚀 Technologies & Tools
-
-#### 💻 Frontend Core
-
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-
-#### ⚙️ Backend & Databases
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-074D5B?style=for-the-badge&logo=sqlite&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white)
-
-#### 🛠️ Environment & Security
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![WSL](https://img.shields.io/badge/WSL-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-
----
-
-### 🛠️ Production Highlights
-
-* **Insurance Platforms:** Development of user interfaces and management logic for insured parties, integration of popular payment gateways (Payme/Click), and complex form validation.
-
-* **Data Portals & Automation:** Creation of synchronization systems to parse Excel data into relational SQLite databases for internal policy management automation.
-
-* **UI/UX & Animations:** Implementation of interactive interfaces featuring precise element positioning, realistic glitch effects, and custom cursor-tracking mechanics.
-
 ---
 
 ### 📞 Contact Me
 
-* 📧 **Email:** farruxwebsitedeveloper@gmail.com
-* 📱 **Phone:** +998-33-303-03-40
+<div align="left">
+  <a href="mailto:farruxwebsitedeveloper@gmail.com">
+    <img src="https://img.shields.io/badge/Email-farruxwebsitedeveloper@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://img.shields.io/badge/Phone-+998_33_303_03_40-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
+</div>
