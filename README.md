@@ -1,7 +1,10 @@
 <div align="center"> 
   <h2>👋 Hi there, I'm Farrux Igamberdiev</h2> 
-  <h3>Full-Stack Software Developer</h3>
-  <p>Building scalable, modern, and high-performance web applications with React, Next.js, and Node.js.</p> 
+  
+  <!-- Анимированный цветной текст с эффектом печати -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Developer;Building+scalable+web+applications;React,+Next.js,+and+Node.js" alt="Typing SVG" />
+  </a>
 </div> 
 <img width="100%" height="2" alt="Rainbow" src="https://github.com/user-attachments/assets/d66f57e7-e75e-4451-b0d0-3864d89a6739" />
 
