@@ -10,7 +10,7 @@
 
 <img width="100%" height="2" alt="Rainbow" src="https://github.com/user-attachments/assets/d66f57e7-e75e-4451-b0d0-3864d89a6739" />
 
-### 👨‍💻 Профиль & Статистика
+### 👨‍💻 Profile & Stats
 
 <table width="100%">
   <tr>
@@ -62,7 +62,7 @@
 
 ### 🛠️ Production Highlights
 
-*Кликните на проект, чтобы узнать подробности:*
+*Click on a project to see details:*
 
 <details>
   <summary><b>🛡️ Insurance Platforms</b></summary>
