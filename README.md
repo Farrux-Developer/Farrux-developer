@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Динамический баннер -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=200&section=header&text=Farrux%20Igamberdiev&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Developer&descAlignY=61&descAlign=50" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=200&section=header&text=Farrux%20Igamberdiev&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Developer&descColor=ffffff&descAlignY=61&descAlign=50" alt="Header Banner" />
   
   <!-- Анимированный цветной текст с эффектом печати -->
   <a href="https://git.io/typing-svg">
