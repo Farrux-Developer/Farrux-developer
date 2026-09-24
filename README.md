@@ -50,19 +50,31 @@ I am a **Full-Stack Developer** specializing in building modern client-server we
 <details>
   <summary><b>🛡️ Insurance Platforms</b></summary>
   <br>
-  <blockquote>Development of user interfaces and management logic for insured parties, integration of popular payment gateways (Payme/Click), and complex form validation.</blockquote>
+  <blockquote>
+    Development of user interfaces and management logic for insured parties, integration of popular payment gateways (Payme/Click), and complex form validation.
+    <br><br>
+    🔗 <b>Links:</b> <a href="#">Live Demo</a> | <a href="#">Source Code</a>
+  </blockquote>
 </details>
 
 <details>
   <summary><b>📊 Data Portals & Automation</b></summary>
   <br>
-  <blockquote>Creation of synchronization systems to parse Excel data into relational SQLite databases for internal policy management automation.</blockquote>
+  <blockquote>
+    Creation of synchronization systems to parse Excel data into relational SQLite databases for internal policy management automation.
+    <br><br>
+    🔗 <b>Links:</b> <a href="#">Live Demo</a> | <a href="#">Source Code</a>
+  </blockquote>
 </details>
 
 <details>
   <summary><b>✨ UI/UX & Animations</b></summary>
   <br>
-  <blockquote>Implementation of interactive interfaces featuring precise element positioning, realistic glitch effects, and custom cursor-tracking mechanics.</blockquote>
+  <blockquote>
+    Implementation of interactive interfaces featuring precise element positioning, realistic glitch effects, and custom cursor-tracking mechanics.
+    <br><br>
+    🔗 <b>Links:</b> <a href="#">Live Demo</a> | <a href="#">Source Code</a>
+  </blockquote>
 </details>
 
 <br>
@@ -87,10 +99,10 @@ I am a **Full-Stack Developer** specializing in building modern client-server we
   <a href="mailto:farruxwebsitedeveloper@gmail.com">
     <img src="https://img.shields.io/badge/Email-farruxwebsitedeveloper@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://t.me/ВАШ_НИК_В_ТЕЛЕГРАМ">
+  <a href="https://t.me/@far_rux0">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="https://linkedin.com/in/ВАША_ССЫЛКА_LINKEDIN">
+  <a href="https://linkedin.com/in/](https://www.linkedin.com/in/farrux-igamberdiev-64186a430">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <img src="https://img.shields.io/badge/Phone-+998_33_303_03_40-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
