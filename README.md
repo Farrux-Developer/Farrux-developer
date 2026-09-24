@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Динамический баннер -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=200&section=header&text=Farrux%20Igamberdiev&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Developer&descAlignY=61&descAlign=50" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=200&section=header&text=Farrux%20Igamberdiev&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Developer&descAlignY=61&descAlign=50" alt="Header Banner" />
   
   <!-- Анимированный цветной текст с эффектом печати -->
   <a href="https://git.io/typing-svg">
@@ -86,6 +86,12 @@ I am a **Full-Stack Developer** specializing in building modern client-server we
 <div align="left">
   <a href="mailto:farruxwebsitedeveloper@gmail.com">
     <img src="https://img.shields.io/badge/Email-farruxwebsitedeveloper@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://t.me/ВАШ_НИК_В_ТЕЛЕГРАМ">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://linkedin.com/in/ВАША_ССЫЛКА_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <img src="https://img.shields.io/badge/Phone-+998_33_303_03_40-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
 </div>
