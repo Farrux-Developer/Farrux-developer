@@ -2,7 +2,7 @@
   <!-- Динамический баннер -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=200&section=header&text=Farrux%20Igamberdiev&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Developer&descColor=ffffff&descAlignY=61&descAlign=50" alt="Header Banner" />
   
-  <!-- Анимированный цветной текст с эффектом печати -->
+ 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Developer;Building+scalable+web+applications;React,+Next.js,+and+Node.js" alt="Typing SVG" />
   </a>
